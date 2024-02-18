@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="me.linjw.demo.overlay.overlay">
+
+    <overlay
+        android:isStatic="false"
+        android:priority="1"
+        android:targetPackage="me.linjw.demo.overlay.app" />
+</manifest>

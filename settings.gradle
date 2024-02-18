@@ -1,0 +1,3 @@
+rootProject.name = "OverlayDemo"
+include ':app'
+include ':overlay'
